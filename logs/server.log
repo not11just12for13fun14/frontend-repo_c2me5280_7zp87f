@@ -1,0 +1,31 @@
+
+> vibe-generated-app@1.0.0 dev
+> vite
+
+
+  VITE v5.4.20  ready in 219 ms
+
+  ➜  Local:   http://localhost:3000/
+  ➜  Network: http://172.20.13.164:3000/
+7:52:58 AM [vite] warning: The character ">" is not valid inside a JSX element
+15 |          <div className="text-center">
+16 |            <h2 className="text-3xl md:text-4xl font-bold">How the pie grows</h2>
+17 |            <p className="mt-3 text-white/70">Alignment > extraction. Transparent, simple, community‑first.</p>
+   |                                                        ^
+18 |          </div>
+19 |  
+
+  Plugin: vite:esbuild
+  File: /home/workspace/src/components/Tokenomics.jsx
+7:52:58 AM [vite] ✨ new dependencies optimized: @splinetool/react-spline, framer-motion
+7:52:58 AM [vite] ✨ optimized dependencies changed. reloading
+7:52:59 AM [vite] warning: The character ">" is not valid inside a JSX element
+15 |          <div className="text-center">
+16 |            <h2 className="text-3xl md:text-4xl font-bold">How the pie grows</h2>
+17 |            <p className="mt-3 text-white/70">Alignment > extraction. Transparent, simple, community‑first.</p>
+   |                                                        ^
+18 |          </div>
+19 |  
+
+  Plugin: vite:esbuild
+  File: /home/workspace/src/components/Tokenomics.jsx
